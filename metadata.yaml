@@ -1,0 +1,26 @@
+_repo: Women-s-Bathing-and-Swimming-Costume-in-the-United-States_37586
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37586-h/images/coverr.jpg
+creator:
+  author:
+    agent_name: Kidwell, Claudia Brush
+    alias: Kidwell, Claudia B.
+    gutenberg_agent_id: '38929'
+    url: http://www.gutenberg.org/2009/agents/38929
+description: ''
+gutenberg_issued: '2011-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37586'
+  lccn: '70600584'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Bathing suits -- History'
+title: Women's Bathing and Swimming Costume in the United States
+url: http://www.gutenberg.org/ebooks/37586
