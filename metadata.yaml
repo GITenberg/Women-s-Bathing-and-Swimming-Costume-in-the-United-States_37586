@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '38929'
     url: http://www.gutenberg.org/2009/agents/38929
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37586#Women-s-Bathing-and-Swimming-Costume-in-the-United-States
 gutenberg_issued: '2011-10-01'
 gutenberg_type: Text
 identifiers:
